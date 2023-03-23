@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fruits>
+    <fruit>
+        <name>Apple</name>
+        <color>Red</color>
+        <taste>Sweet</taste>
+    </fruit>
+    <fruit>
+        <name>Banana</name>
+        <color>Yellow</color>
+        <taste>Sweet</taste>
+    </fruit>
+    <fruit>
+        <name>Orange</name>
+        <color>Orange</color>
+        <taste>Sour</taste>
+    </fruit>
+</fruits>
